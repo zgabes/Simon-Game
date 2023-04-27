@@ -80,3 +80,7 @@ function startOver() {
     gamePattern = []
     gameStarted = false
 }
+
+function teste(){
+    console.log("batata")
+}
